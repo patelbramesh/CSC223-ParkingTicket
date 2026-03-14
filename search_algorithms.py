@@ -1,8 +1,7 @@
 """
 Name: Bramesh Patel
-Course: CSC 223 – Data Structures
 Assignment: M3 – Analyze Running Times of Search Algorithms
-Date: March 12, 2026
+Date: March 13, 2026
 
 Description:
 This program measures and compares the execution time of three search algorithms:
