@@ -1,3 +1,20 @@
+"""
+Name: Bramesh Patel
+Assignment: M3 – Analyze Running Times of Search Algorithms
+Date: March 13, 2026
+
+Description:
+This program measures and compares the execution time of three search algorithms:
+1. Recursive Binary Search
+2. Iterative Binary Search
+3. Sequential Search
+
+Random arrays of increasing size are generated and sorted for binary search.
+Each algorithm is executed 10 times for each data size and the average runtime
+is calculated in microseconds using time.perf_counter().
+"""
+
+
 import random
 import time
 
